@@ -1,0 +1,19 @@
+# Ignore PDF files (can be large)
+pdfs_enem/*.pdf
+
+# Ignore generated JSON files (can be large)
+todas_questoes_enem.json
+
+# Keep the folders but ignore their contents
+pdfs_enem/*
+!pdfs_enem/.gitkeep
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Logs
+*.log

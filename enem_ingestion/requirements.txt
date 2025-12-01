@@ -1,0 +1,17 @@
+# Dependências do módulo enem_ingestion
+# Instalação: pip install -r requirements.txt
+
+# Core
+python>=3.8
+
+# Não há dependências externas!
+# O módulo usa apenas biblioteca padrão Python:
+# - json (parsing e serialização)
+# - re (regex para extração)
+# - subprocess (execução Node.js)
+# - pathlib (manipulação de arquivos)
+# - logging (logs)
+# - argparse (CLI)
+
+# Nota: A importação para Prisma requer Node.js instalado
+# e o projeto Next.js com Prisma configurado em ../enem-pro

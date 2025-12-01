@@ -1,0 +1,85 @@
+﻿{
+    "simulado_id":  5,
+    "questoes":  [
+                     {
+                         "id":  65,
+                         "disciplina":  "fisica",
+                         "enunciado":  "QuestÃ£o 65 de fisica (dificil). Resolva o problema abaixoâ¦",
+                         "alternativas":  [
+                                              "A",
+                                              "B",
+                                              "C",
+                                              "D",
+                                              "E"
+                                          ],
+                         "dificuldade":  "dificil",
+                         "habilidade":  "H4",
+                         "competencia":  "C4",
+                         "explicacao":  "ExplicaÃ§Ã£o breve da questÃ£o."
+                     },
+                     {
+                         "id":  122,
+                         "disciplina":  "fisica",
+                         "enunciado":  "QuestÃ£o 122 de fisica (facil). Resolva o problema abaixoâ¦",
+                         "alternativas":  [
+                                              "A",
+                                              "B",
+                                              "C",
+                                              "D",
+                                              "E"
+                                          ],
+                         "dificuldade":  "facil",
+                         "habilidade":  "H1",
+                         "competencia":  "C1",
+                         "explicacao":  "ExplicaÃ§Ã£o breve da questÃ£o."
+                     },
+                     {
+                         "id":  130,
+                         "disciplina":  "fisica",
+                         "enunciado":  "QuestÃ£o 130 de fisica (facil). Resolva o problema abaixoâ¦",
+                         "alternativas":  [
+                                              "A",
+                                              "B",
+                                              "C",
+                                              "D",
+                                              "E"
+                                          ],
+                         "dificuldade":  "facil",
+                         "habilidade":  "H9",
+                         "competencia":  "C4",
+                         "explicacao":  "ExplicaÃ§Ã£o breve da questÃ£o."
+                     },
+                     {
+                         "id":  111,
+                         "disciplina":  "fisica",
+                         "enunciado":  "QuestÃ£o 111 de fisica (dificil). Resolva o problema abaixoâ¦",
+                         "alternativas":  [
+                                              "A",
+                                              "B",
+                                              "C",
+                                              "D",
+                                              "E"
+                                          ],
+                         "dificuldade":  "dificil",
+                         "habilidade":  "H0",
+                         "competencia":  "C0",
+                         "explicacao":  "ExplicaÃ§Ã£o breve da questÃ£o."
+                     },
+                     {
+                         "id":  12,
+                         "disciplina":  "fisica",
+                         "enunciado":  "QuestÃ£o 12 de fisica (medio). Resolva o problema abaixoâ¦",
+                         "alternativas":  [
+                                              "A",
+                                              "B",
+                                              "C",
+                                              "D",
+                                              "E"
+                                          ],
+                         "dificuldade":  "medio",
+                         "habilidade":  "H1",
+                         "competencia":  "C1",
+                         "explicacao":  "ExplicaÃ§Ã£o breve da questÃ£o."
+                     }
+                 ]
+}

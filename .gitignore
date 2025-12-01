@@ -1,0 +1,16 @@
+# Virtualenv
+venv/
+
+# Cache Python
+__pycache__/
+*.pyc
+
+# Ambiente
+.env
+.env.*
+
+# Banco local
+*.db
+
+# Ferramentas locais
+.claude/
